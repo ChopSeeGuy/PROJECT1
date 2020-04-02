@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/project.dir/src/main.cpp.o  -o project libproject-lib.a -lpthread 

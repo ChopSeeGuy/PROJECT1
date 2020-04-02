@@ -1,0 +1,2 @@
+/usr/bin/ar qc libproject-lib.a  CMakeFiles/project-lib.dir/src/Philosopher.cpp.o CMakeFiles/project-lib.dir/src/Book.cpp.o CMakeFiles/project-lib.dir/src/Reflection.cpp.o CMakeFiles/project-lib.dir/src/Wait.cpp.o
+/usr/bin/ranlib libproject-lib.a

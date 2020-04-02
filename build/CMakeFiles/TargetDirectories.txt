@@ -1,0 +1,5 @@
+/home/krzysiek/kawapa/00_homework_kawapa/PROJECT1/build/CMakeFiles/rebuild_cache.dir
+/home/krzysiek/kawapa/00_homework_kawapa/PROJECT1/build/CMakeFiles/edit_cache.dir
+/home/krzysiek/kawapa/00_homework_kawapa/PROJECT1/build/CMakeFiles/project-lib.dir
+/home/krzysiek/kawapa/00_homework_kawapa/PROJECT1/build/CMakeFiles/project-ut.dir
+/home/krzysiek/kawapa/00_homework_kawapa/PROJECT1/build/CMakeFiles/project.dir
